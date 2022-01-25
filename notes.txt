@@ -1,0 +1,10 @@
+Information about files
+
+1) connection.php = connection class including database with credentials
+2) import.php = import "Code Challenge (DEV_Sales_full).json" file to database using php
+3) Index.php = List all records in grid view with filter by Customer, Product and Price
+4) response.php = Ajax response
+5) versioncompare.php = Tested class for Version comparison
+6) dbtestproduct.sql = SQL file of customer product record
+7) Code Challenge (DEV_Sales_full).json = Main json file
+
